@@ -1,0 +1,229 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+/* Contorls the background color of entire site */
+main {
+    background-color: #d9dcd6;
+}
+
+/* Gives the header it's shape */
+header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+}
+
+/* Company name on top left */
+header h1 {
+    display: inline-block;
+    font-size: 48px;
+    color: #d9dcd6;
+}
+
+/* Formats the entire nav bar */
+nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+/* Formats the list */
+header nav ul {
+    list-style-type: none;
+}
+
+/* Controls the display of the list */
+header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+/* Gives color to the text in list */
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* Font size for all paragraphs */
+p {
+    font-size: 16px;
+}
+
+/* Creates Image below the header */
+figure {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
+/* Controls SEO Image */
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+/* Controls Reputation Image */
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/* Container for all articles */
+section {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+/* Formats aside */
+aside {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+
+/* Controls Lead Generation */
+.benefit-lead{
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+/* Controls Brand Awereness */
+.benefit-brand {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+/* Controls Cost Management */
+.benefit-cost {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+/* Formats Lead Generation title */
+.benefit-lead h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* Formats Brand Awereness title */
+.benefit-brand h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* Formats Cost Management title */
+.benefit-cost h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* Controls image below Lead Generation title */
+.benefit-lead img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/* Controls image below Brand Awereness */
+.benefit-brand img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/* Controls image below Cost Management */
+.benefit-cost img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/* Formats the Search Engine Optimization container */
+.search-engine-optimization {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* Formats the Online Repitation Management container */
+.online-reputation-management {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* Formats the Social Media Market container */
+.social-media-marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* Controls SEO image size */
+.search-engine-optimization img {
+    max-height: 200px;
+}
+
+/* Controls Online Reputation Management  image size */
+.online-reputation-management img {
+    max-height: 200px;
+}
+
+/* Contorls Social Media Marketing image size */
+.social-media-marketing img {
+    max-height: 200px;
+}
+
+/* Controls SEO title formating */
+.search-engine-optimization h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* Controls Online Reputation Management title */
+.online-reputation-management h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* Controls Social Media Marketing title */
+.social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* Formats the footer */
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+/* Contorls the font size in footer */
+footer h2 {
+    font-size: 20px;
+}
