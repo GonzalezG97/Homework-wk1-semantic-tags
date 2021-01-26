@@ -8,8 +8,16 @@ This done by placing the correct semantic tags in the HTML code. Having the corr
 
 To use this project you can follow this link below.
 
+https://gonzalezg97.github.io/Homework-wk1-semantic-tags/Homework/index.html
 
-![Screenshot](/assets/images/Screenshot1)
+
+![Screenshot](assets/Images/Screenshot2.png)
+
+![Screenshot](assets/Images/Screenshot3.png)
+
+![Screenshot](assets/Images/Screenshot1.png)
+
+
 
 ## Credits
 
