@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Horiseon Website
 
 This Project's goal is to help this website to be read by site readers. Site readers are software that reads the website for the visually impared. 
