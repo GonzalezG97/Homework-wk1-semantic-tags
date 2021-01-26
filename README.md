@@ -1,1 +1,1 @@
-# Simantic-tags-hw-1
+# Semantic-tags-hw-1
